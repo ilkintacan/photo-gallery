@@ -1,6 +1,8 @@
 {
   "name": "photo-gallery",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "pro_id": "ff1de2dd"
 }

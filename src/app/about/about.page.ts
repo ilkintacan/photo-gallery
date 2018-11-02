@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 
-@Component({
+@Component({ 
   selector: 'app-about',
   templateUrl: 'about.page.html',
   styleUrls: ['about.page.scss']
